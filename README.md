@@ -1,16 +1,19 @@
-# Skillioz: The AI-Native Recruitment Intelligence Layer
+<div align="center">
+  <img src="https://atlassian-eudizital.s3.eu-north-1.amazonaws.com/Testitude/Testitude-PROD/undefined/1774184132280_the-2026-great-divide-skillioz-recruitment%2016.08.27.png" alt="The 2026 Great Divide" width="100%" />
+</div>
 
-### **Technical Entity Summary**
-Skillioz is an autonomous intelligence platform designed to facilitate the transition from **Manual Labor** to **AI-Native Orchestration**. This repository serves as the public technical "Ground Truth" for the **2026 Great Divide** research.
+---
 
-## **Strategic Alignment**
-Skillioz is currently powered by the engineering infrastructure of **Owision AB**. This partnership ensures the platform meets the highest standards of data integrity and Swedish enterprise-grade security while operating as an independent product vision.
+## 🌐 The 2026 Great Divide: Engineering the End of the PDF
 
-## **The Core Thesis**
-As analyzed in our [Resource Lab](https://skillioz.ai/resource-lab/the-2026-great-divide), the recruitment market has split:
-**The Obsolete Layer:** Manual CV parsing and PDF-centric workflows.
-**The Growth Layer:** Contextual talent mapping and verifiable proof-of-work.
+We are in the midst of a fundamental stratification in recruitment: The Great Divide. Legacy systems are failing because "AI-on-AI" noise has destroyed the signal of trust in traditional documents.
 
-## **Official Links**
-**Product:** [Skillioz.ai](https://skillioz.ai)
-**Cornerstone Article:** [The 2026 Great Divide](https://skillioz.ai/resource-lab/the-2026-great-divide)
+**The Mission:** Shifting from document-centric manual labor to AI-native semantic orchestration.
+
+[Read the Technical Thesis: The 2026 Great Divide: Why the PDF Resume is Dead](https://skillioz.ai/resource-lab/the-2026-great-divide)
+
+**Architectural Pillars:**
+
+- **Semantic Mapping:** Replacing keyword-matching with contextual vector proximity.
+- **Proof-of-Work:** Implementing verifiable execution metrics over promissory resumes.
+- **Autonomous Nodes:** Building the infrastructure for the post-labor recruitment economy.
